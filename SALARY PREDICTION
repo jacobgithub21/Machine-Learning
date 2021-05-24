@@ -1,0 +1,67 @@
+TITLE:     "PREDICT THE SALARY BASED ON  EXPERIENCE":
+  “This project aims at predicting the salary of an candidate based on their experience,
+for an example ,if the candidate with 5 years of experience,then what is the best salary should be offer to him”
+
+
+OVERVIEW:
+ NEGOTIABLE SALARY is play major role in selecting the right candidtes. for example if you are the HR officier, you got a candidate with 5 years
+ of experiennce ,then what is the best salary you should offer to him?.
+ 
+ 
+ BASIC LIBRARIES:
+ 1.NUMPY : The NumPy libraray is the core library for scientific computing inpython. it provides a high_perfromence multidimensional array object, and tools
+ for working with theses arrrays.
+ 
+ 
+ 2.PANDAS: The Pandas library is built on NumPy and provides easy_to_use DATA STRUCTURE and DATA ANALYSIS tools for the python programming language.
+ 
+ 
+ 3.MATPLOTLIB: matplotlib is python 2D plotting library which produces publication _quality figures in a variety of hardcopy formates and interactive
+ environements across platform
+ 
+ 
+ STEPS INVOLVED IN EXECUTION:
+ 
+ 1.LOAD THE BASIC LIBRARIES
+ 2.LOAD THE DATASET
+ 3.GET BASIC INFORMATION ABOUT THE DATA
+ 4.DATA CLEANING
+ 5.CREATE DEPENDENCY(Y) AND INDEPENDENCY(X) VARIABLES
+ 6.DATA VISUALIZATION BEFORE THE TRAIN MODEL
+ 7.SPLIT DATASET TO TRAIN AND TEST
+ 8.APPLY LINEAR REGRESSION ON TRAIN DATASET
+ 9.GET THE PARAMETERS
+ 10.APPLY THE MODEL ON TEST DATASET TO GET THE PREDICT THE VALUES
+ 11.TO COMPARE THE ACTUAL OUTPUT VALUES WITH PREDICTED VALUES
+ 12.PREDICTION
+ 13.VISUALIZATING THE TEST SET RESULTS
+ 14.EVALUATION METRICS OF REGRESSION ALGORITHMS
+ 
+ 
+
+CODING STEPS:
+
+Dataset  from kaggle is used and viewed by using pandas library
+
+Data analysis and feature engineering are done for the dataset to extract the needed feature and model is trained on various regression method
+
+Visualization  of trained and test model is done by  using matplotlib and seaborn
+
+Evaluating  the accuracy score by sklearn library    
+
+The accuracy score is 98.816
+
+
+DATA SET:
+   https://www.kaggle.com/rohankayan/years-of-experience-and-salary-dataset
+   
+credits:
+kaggle dataset.
+
+used platform:
+JUPYTER NOTEBOOK
+    
+
+
+
+                           
